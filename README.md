@@ -26,7 +26,7 @@ There was a Confidenciality Agreement, and according to that, it will be submitt
 
 The company, dedicated to sell food products at national level, asked for some approaches for predicting the amount of sales of 6 different products, through its teleshopping channel, to SMEs companies (Small and Medium Enterprises) or wholesale, and retail scope.
 
-In that context, considering the cyclic components of the information, at a initial review, and after discussing with the teacher and assistant of the course, the team decided to use time series models for calculating the predictions. This kind of models were not part of the contents of the course, but
+In that context, considering the cyclic components of the information, at a initial review, and after discussing with the teacher and assistant of the course, the team decided to use time series models for calculating the predictions. This kind of models were not part of the contents of the course, but the teacher agreed because of his experience with time series, which allowed to the team had guidelines for developing the project properly.
 
 The company gave information of their sales of these products between apr-2019 and feb-2022.
 
