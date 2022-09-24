@@ -6,11 +6,11 @@ Repository with the final project of the Data Science Bootcamp at Academia Desaf
 
 The first version of code of this repo is the  of the final project of the bootcamp of Data Science at Academia Desafío Latam, Chile, of the 31st generation, made by the team formed by:
 
-1. Francisco Silva: http://github.com/panchosilva
-2. Francisca Pinto
-3. Benjamín Meneses: https://github.com/Japsz
-4. Paula Rivera: https://www.linkedin.com/in/paulariveraguayo/
-5. Verónica Martínez: https://www.linkedin.com/in/ver%C3%B3nica-mart%C3%ADnez-paillama-8720a142/
+1. Verónica Martínez: https://www.linkedin.com/in/ver%C3%B3nica-mart%C3%ADnez-paillama-8720a142/
+2. Benjamín Meneses: https://github.com/Japsz
+3. Francisca Pinto
+4. Francisco Silva: http://github.com/panchosilva
+5. Paula Rivera: https://www.linkedin.com/in/paulariveraguayo/ 
 
 The teacher and assistant of the course (Final project of Data Science) was, respectively:
 1. Ignacio Loayza: https://github.com/TattooeDeer
