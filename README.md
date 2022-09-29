@@ -14,7 +14,7 @@ The first version of code of this repo is the  of the final project of the bootc
 
 The teacher and assistant of the course (Final project of Data Science) was, respectively:
 1. Ignacio Loayza: https://github.com/TattooeDeer
-2. Álvaro Fuentes: https://www.linkedin.com/in/alvarofd/
+2. Álvaro Fuentes: https://github.com/alvarofda
 
 The following versions are made by me for improving the first one.
 
